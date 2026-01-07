@@ -6,7 +6,8 @@ Overview
 While supporting the Bing search platform at Microsoft, I led a focused accessibility (A11y) execution initiative to stabilize release quality, reduce defect intake, and improve compliance across a high‑traffic user experience.
 At the start of this effort, accessibility work was being handled reactively across multiple teams, with inconsistent acceptance criteria, unclear ownership, and a rapidly growing backlog that increased both delivery risk and rework. This initiative transformed accessibility from a fragmented, late‑stage activity into a predictable, integrated delivery discipline.
 
-Note: All metrics and visuals in this repository are generated from synthetic data to preserve confidentiality while accurately representing the execution patterns and impact of the work.
+Note
+All metrics and visuals in this repository are generated from synthetic data to preserve confidentiality while accurately representing the execution patterns and impact of the work.
 
 
 The Problem
@@ -36,7 +37,9 @@ Definition and enforcement of accessibility acceptance criteria
 Risk identification, escalation, and follow‑through
 Executive reporting and progress visibility
 
+
 I did not own technical design decisions. My role was to ensure decisions were made, documented, tracked, and executed consistently across teams.
+
 
 Approach
 1. Established Clear Ownership & Controlled Intake
@@ -46,7 +49,7 @@ Standardized triage
 Priority assignment at intake
 Clear ownership at creation
 
-This prevented unbounded growth and shifted accessibility from reactive cleanup to managed work.
+This prevented unbounded backlog growth and shifted accessibility from reactive cleanup to managed work.
 
 2. Standardized Accessibility Acceptance Criteria
 Working with UX and accessibility stakeholders, I helped formalize consistent A11y acceptance criteria that applied across features and teams. These criteria were embedded directly into development and review workflows, shifting validation earlier in the SDLC and reducing regressions.
@@ -55,8 +58,8 @@ Working with UX and accessibility stakeholders, I helped formalize consistent A1
 I led a focused execution effort to address the existing accessibility backlog by:
 
 Prioritizing high‑impact and high‑risk issues
-Identifying and closing duplicates and stale defects
-Planning work with clear dependencies and ownership
+Identifying and closing duplicate and stale defects
+Planning work with explicit dependencies and ownership
 
 This approach balanced backlog reduction with ongoing feature delivery.
 
@@ -68,29 +71,29 @@ Monthly defect intake rate
 Feature consistency against acceptance criteria
 Release readiness indicators
 
-This enabled leadership to assess risk and progress without interrupting delivery teams.
+These dashboards enabled leadership to assess risk and progress without interrupting delivery teams.
 
 Results (Representative)
 
-Metrics below are illustrative and based on synthetic data reflecting the actual execution trajectory.
+Results below are illustrative and based on synthetic data reflecting the actual execution trajectory.
 
 
 ✅ Cleared over 1,000 accessibility backlog items
 ✅ Reduced monthly A11y defect intake from hundreds to fewer than 20
-✅ Improved feature consistency from approximately 70% to 95%
-✅ Accelerated release velocity by ~20% by reducing late‑stage rework
+✅ Improved feature consistency from ~70% to ~95%
+✅ Accelerated release velocity by ~20% through reduction in late‑stage rework
 ✅ Increased confidence in accessibility readiness across releases
 
 
 Visuals
-This repository includes synthetic visualizations that reflect the execution improvements:
+This repository includes synthetic visualizations representing the execution improvements:
 
 Accessibility backlog burn‑down
 Defect intake rate over time
 Acceptance criteria consistency
 Release velocity index
 
-These visuals are located in the /images directory and rendered in this README and the portfolio site.
+Visual assets are located in the /images directory and are rendered in this README and the accompanying portfolio site.
 
 Skills Demonstrated
 
@@ -102,8 +105,8 @@ Translating technical execution data into leadership‑level insights
 
 
 Why This Matters
-Accessibility work often fails not because of technical complexity, but because of unclear ownership, late validation, and fragmented execution.
-This initiative demonstrates how disciplined program execution—clear intake control, standardized criteria, and visible metrics—can improve both delivery speed and product quality while reducing risk.
+Accessibility efforts often fail not due to technical complexity, but due to unclear ownership, late validation, and fragmented execution.
+This initiative demonstrates how disciplined program execution—clear intake control, standardized criteria, and visible metrics—can improve both delivery speed and product quality while reducing operational and compliance risk.
 
 Repository Structure
 .
@@ -121,6 +124,6 @@ Repository Structure
 
 Notes
 
-All data is synthetic and used for demonstration purposes only
+All data is synthetic and used for demonstrative purposes only
 No proprietary systems, source code, or internal documentation are included
-Accessibility principles align broadly with WCAG 2.1/2.2 standards
+Accessibility practices align broadly with WCAG 2.1 / 2.2 guidance

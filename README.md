@@ -35,7 +35,28 @@ compliance through clearer ownership, standardized acceptance criteria, and exec
 
 ## Artifacts
 - System flow and execution diagrams (see `/visuals`)
-- Figma wireframe concepts
-- PDF case study export
+
+
+## Accessibility Execution Model
+
+```mermaid
+flowchart LR
+    A[Accessibility Issues<br/>(Product / Design / QA)]
+    B[Intake & Triage<br/>(ADO Gates)]
+    C[Standardized A11y Criteria]
+    D[Focused Execution Pods]
+    E[Release Readiness<br/>+ Leadership Visibility]
+
+    A --> B --> C --> D --> E
+
+```markdown
+## Backlog Health Transformation
+
+| Metric                     | Before Initiative | After Initiative |
+|---------------------------|------------------|-----------------|
+| Accessibility backlog     | 1,000+ items     | Cleared / Stable |
+| Monthly defect intake     | 100s per month   | <20 per month   |
+| Acceptance criteria       | Inconsistent     | Standardized    |
+| Release readiness         | Reactive         | Predictable     |
 
 > All visuals and data are representative and sanitized to avoid disclosure of proprietary information.
